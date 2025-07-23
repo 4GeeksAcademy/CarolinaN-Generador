@@ -1,5 +1,11 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+
 
 body{
-    background: white;
+    background: rgb(137, 107, 112);
+}
+h1{
+    color:beige;
+}
+button{
+    background-color: rgb(159, 108, 207);
 }
